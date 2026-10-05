@@ -1,6 +1,6 @@
 cask "mac-quest-ncm" do
-  version "0.1.0"
-  sha256 "c4b3149e486359f0bae5cf495f9092f37607132f5b7cd06f6d8d5fc913a2d0f9"
+  version "0.1.1"
+  sha256 "0c70a6d8b1f1c1988a1f231ed16abe5e3cdbde1ed8690daa003314c46c02d293"
 
   url "https://github.com/dingyifei/mac-quest-ncm/releases/download/v#{version}/Mac-Quest-NCM-#{version}.zip"
   name "Mac-Quest-NCM"
